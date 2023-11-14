@@ -13,7 +13,7 @@ main{
 .container{
     width: 670px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
    margin-top: 150px;
    height: 460px;
@@ -27,7 +27,8 @@ main{
     display: flex;
     flex-direction: column;
     color: white;
-   align-items: center; padding: 10px;
+   align-items: center;
+  padding: 10px;
     border-radius: 3rem;
     background: linear-gradient( hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     width: 50%;
