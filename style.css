@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;500;700;800&family=Outfit:wght@600&display=swap');
+
+body{overflow: hidden;}
+.foo{
+   margin: auto;
+    margin-top: 150px;
+    font-family: "Hanken Grotesk", sans-serif;
+    background:linear-gradient( hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+    padding: 30px;
+    padding-left: 130px;
+     min-width: 200px;
+    height: 450px;
+    border-radius: 3rem;
+    box-shadow: 2px,2px,2px rgba(0,0, 0, 0.3);
+    right: 20cm;
+    display: flex;
+    flex-wrap: nowrap;
+    color: white;
+    margin-left: 120px;
+    position: absolute;
+ 
+
+}
+
+.Great{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;   
+    position: absolute;
+    left: 50px;
+    min-width :277px;
+    top: 300px;
+    color: aliceblue;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 30px;
+    
+    text-align: center;
+}
+#bot{
+    display: flex;
+    flex-wrap: nowrap;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    font-size: 15px;
+    min-width: 190px;
+    top: 100px;
+    color: hsl(241, 100%, 89%);
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 100;
+    left: 50px;
+    min-height: 50px;
+}
+.boo {
+    margin-bottom: 2cm;
+    margin-right: 4cm;
+   font-size: 50px;
+    color: white;
+    background:linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+    height: 200px;
+    min-width: 200px;
+    border-radius: 60%;
+    display: inline-block;
+    position: absolute;
+    left: 80px;
+    top: 25%;
+    
+}
+#no{
+    color: white;
+    margin: 0;
+    padding: 1.74cm;
+    font-weight: 800;
+    padding-top: 0.3cm;
+    font-size: 60px;
+    
+}
+#poo{
+    font-size: 15px;
+    font-family: "Hanken Grotesk", sans-serif;
+   padding: 1cm;
+    position: absolute;
+    top: 35%;
+    font-weight: 100;
+    left: 35px;
+   
+    color:hsl(221, 100%, 96%);
+}
+.summary{
+   column-gap: 50px;
+    background-color: white;
+    width: 370px;
+    height: 510px;
+    position: absolute;
+    right: 350px; 
+    top: 170px;
+    border-radius: 3rem;
+    font-family: "Hanken Grotesk", sans-serif;
+    display: flex;
+    flex-direction: column; 
+    
+    column-gap: 10px; 
+}
+.Reaction{
+    display: flex;
+    margin: 10px;
+    background-color: hsla(0, 100%, 67%,0.2);
+    color: red;
+    justify-content: space-between ;
+    font-size: 20px;
+    border-radius: 1rem;
+    padding: 20px;
+    max-height: 60px;
+}
+.eight{
+    position: relative;
+    display: flex;
+    float: right;
+    color: black;
+    left: 140px;
+}
+.Memory{
+     display: flex;
+     background-color:  hsla(39, 100%, 56%,0.1);
+    color:  hsl(39, 100%, 56%);
+    justify-content: space-between ;
+    font-size: 20px;
+    border-radius: 1rem;
+    padding: 20px;
+    margin: 10px;
+    max-height: 50px;
+   
+}
+.Verbal
+{
+    display: flex;
+    background-color: hsla(166, 100%, 37%,0.1);
+   color: hsl(166, 100%, 37%);
+   justify-content: space-between ;
+   font-size: 20px;
+   border-radius: 1rem;
+   padding: 20px;
+   margin: 10px;
+   max-height: 50px; 
+}
+.visual{
+    display: flex;
+    background-color:  hsla(234, 85%, 45%,0.1);
+   color:  hsl(234, 85%, 45%);
+   justify-content: space-between ;
+   font-size: 20px;
+   border-radius: 1rem;
+   padding: 20px;
+   margin: 10px;
+   max-height: 50px; 
+
+}
+button{
+    width: 365px;
+    height: 50px;
+    border-radius: 3rem;
+    background-color:  hsl(224, 30%, 27%);
+    color: aliceblue;
+    font-size: large;
+    font-family: "Hanken Grotesk", sans-serif;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: black;
+}
+button:active{
+   color:  hsl(224, 30%, 27%);
+}
+.attribution{
+    font-size: small;
+    position: fixed;
+    bottom: 0px;
+    right: 600PX;
+    font-family: "Hanken Grotesk", sans-serif;
+}
+
