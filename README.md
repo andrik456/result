@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/andrik456/result?search=1)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/andrik456/result/blob/main/README.md)
+- Live Site URL: [Add live site URL here](https://fastidious-phoenix-dd8403.netlify.app/)
 
 ## My process
 
