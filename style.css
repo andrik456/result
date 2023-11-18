@@ -162,6 +162,7 @@ main{
         display: flex;
         flex-direction: column;
        margin-top: 0px;
+      padding-top:0px;
        gap: 0px;
        border-bottom-left-radius: 2rem;
        border-bottom-right-radius: 2rem;
